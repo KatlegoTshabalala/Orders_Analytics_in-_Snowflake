@@ -1,4 +1,4 @@
-# DE_Project1
+#Orders Analytics in Snowflake
 # Orders / Customers / Products — SQL Query Reference
 
 This document describes four queries built against the `ORDERS`, `CUSTOMERS`, and `PRODUCTS` tables.
